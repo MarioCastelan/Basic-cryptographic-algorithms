@@ -1,5 +1,5 @@
 # Castelan Hernandez Mario
-# Assignment: 04 - MD2
+# MD2
 
 import sys
 from typing import List
