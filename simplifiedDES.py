@@ -1,5 +1,5 @@
 # Castelan Hernandez Mario
-# Assignment: 03 - Simplified DES
+# Simplified DES
 
 
 from typing import Tuple
