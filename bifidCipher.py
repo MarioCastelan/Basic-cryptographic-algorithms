@@ -1,5 +1,5 @@
 # Castelan Hernandez Mario
-# Assignment: 01 - The Bifid cipher
+# The Bifid cipher
 
 
 from typing import List, Tuple
