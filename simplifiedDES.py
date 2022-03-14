@@ -1,5 +1,5 @@
 # Castelan Hernandez Mario
-# Simplified DES
+# DES
 
 
 from typing import Tuple
