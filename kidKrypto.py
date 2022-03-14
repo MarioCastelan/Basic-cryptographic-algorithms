@@ -1,5 +1,5 @@
 # Castelan Hernandez Mario
-# Assignment: 05 - Kid Krypto
+# Kid Krypto
 
 from typing import Tuple
 
